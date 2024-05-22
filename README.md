@@ -1,4 +1,4 @@
-# DIO | Resumos git e github
+# DIO | Git and Github Resume
 
 - O Git Bash usa a mesma sintaxe da linguagem que o terminal Linux, que é o Bash.
 - Versionamento
